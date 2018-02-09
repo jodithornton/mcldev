@@ -1,0 +1,65 @@
+body .cg-menu-below .cg-extras .cg-header-details i {
+	color: #8572a4;
+}
+
+body a,
+body .widget.woocommerce .amount,
+body #secondary .widget_recent_entries ul li a {
+	color: #8572a4;
+}
+
+body .cg-announcements {
+	background-color: #8572a4;
+	color: #fff;
+	border-bottom-color: #8572a4;
+}
+
+body .cg-folding-cube .cg-cube:before,
+body .widget_categories ul li:before,
+body .container .mc4wp-form input[type="submit"],
+body .widget_pages ul li:before,
+body .cg-primary-menu .menu > li > a strong {
+	background-color: #8572a4;
+}
+
+.vc_custom_1445438329640,
+.vc_custom_1444955234590 .separator,
+body .wpcf7 input.wpcf7-submit {
+	background-color: #8572a4 !important;
+}
+
+body .cg-primary-menu .menu > li:hover,
+body .cg-wp-menu-wrapper .menu li a:hover {
+	border-color: #8572a4;
+}
+
+body .entry-content a, body .cg-blog-article footer a:hover,
+body .content-area a:hover {
+	border-bottom-color: #8572a4;
+}
+
+.animate i,
+.breadcrumbs-wrapper p.sub-title {
+	color: #8572a4 !important;
+}
+
+.cg-header-fixed .menu > li .cg-submenu-ddown, ul.tiny-cart li ul.cart_list, .cg-primary-menu .menu > li .cg-submenu-ddown, .cg-header-fixed .menu > li.menu-full-width .cg-submenu-ddown, .cg-primary-menu .menu > li.menu-full-width .cg-submenu-ddown, .cg-header-fixed .menu > li .cg-submenu-ddown .container > ul .menu-item-has-children .cg-submenu li, .cg-primary-menu .menu > li .cg-submenu-ddown .container > ul .menu-item-has-children .cg-submenu li, .cg-header-fixed .menu > li.menu-full-width .cg-submenu-ddown, .cg-primary-menu .menu > li.menu-full-width .cg-submenu-ddown, .cg-header-fixed .menu > li .cg-submenu-ddown .container > ul .menu-item-has-children .cg-submenu, .cg-primary-menu .menu > li .cg-submenu-ddown .container > ul .menu-item-has-children .cg-submenu, .cg-header-fixed .menu > li .cg-submenu-ddown .container > ul .menu-item-has-children .cg-submenu, .cg-primary-menu .menu > li .cg-submenu-ddown .container > ul .menu-item-has-children .cg-submenu, .cg-primary-menu .menu > li .cg-submenu-ddown .container > ul > li a {
+	background-color: #8572a4 !important;
+}
+
+.cg-primary-menu .menu > li .cg-submenu-ddown .container > ul > li:hover a, .cg-header-fixed .menu > li .cg-submenu-ddown .container > ul > li:hover a, .cg-primary-menu .menu > li .cg-submenu-ddown .container > ul > li a:hover, .cg-header-fixed .menu > li .cg-submenu-ddown .container > ul > li a:hover, .cg-primary-menu .menu > li .cg-submenu-ddown .container > ul .menu-item-has-children > a:hover:after {
+	background-color: #6a5a85 !important;
+}
+
+body .cg-primary-menu .menu > li .cg-submenu-ddown .container > ul > li a, body .cg-submenu-ddown .container > ul > li > a {
+	border-color: #6a5a85 !important;
+}
+
+.ls-l div {
+	background-color: #8572a4 !important;
+}
+
+.ls-l:last-child div {
+	background-color: #fff !important;
+	color: #8572a4 !important;
+}
