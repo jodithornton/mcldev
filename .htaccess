@@ -1,0 +1,4 @@
+# HTTPS Redirect
+RewriteEngine on
+RewriteCond %{SERVER_PORT} 80
+RewriteRule ^(.*)$ https://www.mcldev.org/$1 [R=301,L]
