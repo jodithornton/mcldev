@@ -68,6 +68,7 @@ $table_prefix  = 'wp_';
 define('WP_DEBUG', false);
 
 define('FORCE_SSL_ADMIN', true);
+if ($_SERVER['HTTP_X_FORWARDED_PROTO'] == 'https') $_SERVER['HTTPS']='on';
 
 /* That's all, stop editing! Happy blogging. */
 
