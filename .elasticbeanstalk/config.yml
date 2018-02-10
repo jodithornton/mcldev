@@ -1,20 +1,22 @@
 branch-defaults:
   master:
-    environment: gitwordpress
+    environment: mclloadbalancer
 environment-defaults:
-  gitwordpress:
+  mclloadbalancer:
     branch: null
     repository: null
 global:
-  application_name: gitWordpress
+  application_name: mclloadbalancer
+  branch: null
   default_ec2_keyname: null
   default_platform: arn:aws:elasticbeanstalk:ap-southeast-2::platform/PHP 5.6 running
-    on 64bit Amazon Linux/2.6.3
+    on 64bit Amazon Linux/2.6.4
   default_region: ap-southeast-2
   include_git_submodules: true
   instance_profile: null
   platform_name: null
   platform_version: null
   profile: eb-cli
+  repository: null
   sc: git
   workspace_type: Application
